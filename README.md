@@ -15,12 +15,12 @@ A simple and elegant Image Gallery built using HTML, CSS, and JavaScript. This p
 ## 📂 Folder Structure
 
 image-gallery/
-├── index.html
-├── style.css
-└── images/
-    ├── image1.jpg
-    ├── image2.jpg
-    └── ...
+- ├── index.html
+- ├── style.css
+- └── images/
+   - ├── image1.jpg
+   - ├── image2.jpg
+   - └── ...
 
 ## 📸 Preview
 
